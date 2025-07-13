@@ -1,0 +1,32 @@
+{
+  "name": "cloud-chat",
+  "version": "1.0.0",
+  "description": "Chat application with file sharing and Google Drive integration",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "server": "nodemon server/server.js",
+    "client": "cd client && npm start",
+    "dev": "nodemon server/server.js",
+    "install-all": "npm install && cd client && npm install",
+    "dev-full": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^7.1.1",
+    "@mui/material": "^7.1.1",
+    "axios": "^1.9.0",
+    "concurrently": "^8.2.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "googleapis": "^128.0.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.10",
+    "open": "^10.1.2",
+    "server-destroy": "^1.0.1",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1"
+  }
+}
