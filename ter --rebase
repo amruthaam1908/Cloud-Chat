@@ -1,0 +1,23 @@
+[33mcommit 41d58f7c24236f0eba8508d2f7df30dc44f48c91[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Amrutha A M <amruthaam1908@gmail.com>
+Date:   Sun Jul 13 21:13:03 2025 +0530
+
+    Initial commit
+
+[33mcommit c2dc6bb1e529ea25d1c52558c745a278a032c01c[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: akshataredd <akshatareddy44@gmail.com>
+Date:   Sun Jul 13 14:25:23 2025 +0530
+
+    Fixed .gitignore and added screenshot images
+
+[33mcommit 653316eca27746c1c460d4a75df44b7903af21d8[m
+Author: akshataredd <akshatareddy44@gmail.com>
+Date:   Sun Jul 13 14:19:07 2025 +0530
+
+    Track empty screenshots folder
+
+[33mcommit cbe22bb1bc0ab7775fd318e80e4f4de4da48d5a3[m
+Author: akshataredd <akshatareddy44@gmail.com>
+Date:   Sun Jul 13 13:58:12 2025 +0530
+
+    Initial commit: Cloud Chat with mobile phone interface and Google Drive integration
