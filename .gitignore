@@ -113,7 +113,7 @@ uploads/
 *.pdf
 *.jpg
 *.jpeg
-*.png
+
 *.gif
 
 # Build outputs
